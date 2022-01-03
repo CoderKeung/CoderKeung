@@ -1,5 +1,7 @@
-<img src="imgs/KangNa.gif" style="display:block;margin:0 auto;">
-
+<p align="center">
+<img src="imgs/KangNa.gif">
+</p>
+  
 - 👋 Hi, I’m @CoderKeung
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
